@@ -14,7 +14,7 @@ RSA encryption is a crucial asymmetric encryption algorithm used for secure comm
 Clone the GitHub repository:
 1. Open a terminal or command prompt and navigate to the directory where you want to download the project. Then, run the following command to clone the repository:
 
-https://github.com/HungDongne/EncryptChat.git
+git clone https://github.com/HungDongne/EncryptChat.git
 
 2. Install necessary libraries: After cloning the repository, navigate into the project directory:
 
