@@ -1,0 +1,35 @@
+# RSA Encrypt message
+
+RSA encryption is a crucial asymmetric encryption algorithm used for secure communication. It involves encrypting messages with a recipient's public key, ensuring that only the recipient possessing the corresponding private key can decrypt and read the message. This process ensures confidentiality and privacy in data transmission over insecure channels.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Clone the GitHub repository:
+1. Open a terminal or command prompt and navigate to the directory where you want to download the project. Then, run the following command to clone the repository:
+
+https://github.com/HungDongne/EncryptChat.git
+
+2. Install necessary libraries: After cloning the repository, navigate into the project directory:
+
+cd EncryptChat
+
+pip install -r requirements.txt
+
+## Usage
+
+Update later ...
+
+## Contributing
+
+Update later ...
+
+## License
+
+Update later ...
